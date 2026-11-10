@@ -1,0 +1,6 @@
+{
+  "name": "Pole Chudes: Fútbol Español - Հայերեն",
+  "description": "Интерактивная игра Поле Чудес с 20 футбольными вопросами на испанском с переводом на армянский и главным словом PORTERIA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
